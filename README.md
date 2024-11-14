@@ -21,7 +21,7 @@ Evaluation: Evaluate the model's performance using appropriate metrics (e.g., ac
 
 ## Technologies Used
 
-Python: Programming language for data analysis and machine learning.
-Scikit-learn: Machine learning library for model training and evaluation.
-Pandas: Data manipulation and analysis library.
-SQLite: Database for storing and managing the dataset.
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) Python: Programming language for data analysis and machine learning.
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) Scikit-learn: Machine learning library for model training and evaluation.
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) Pandas: Data manipulation and analysis library.
+	![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) SQLite: Database for storing and managing the dataset.
